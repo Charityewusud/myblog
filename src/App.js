@@ -25,7 +25,7 @@ class App extends React.Component {
           <header>
             <div className="wrapper">
               <h1 className="blog-title">Welcome to my blog</h1>
-              <h3 className="charity">Charity Ehouabolet</h3>
+              <p className="charity">Charity Ehouabolet</p>
             </div>
           </header>
 

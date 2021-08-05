@@ -5,7 +5,7 @@ const Post = ({article}) => {
     console.log(article)
     const {title, date, image, text} = article.fields;
     const postDescription =  marked(text);
-    const [isActive, setIsActive] = useState(true);
+    const [isActive, setIsActive] = useState(false);
     return (
         <div className="post">
             

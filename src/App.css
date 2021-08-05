@@ -18,6 +18,11 @@ body {
   font-size: 30px;
 }
 
+.charity {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
 .postgroup {
   background-color: #F1F1F1;
   border-radius: 20px;
@@ -86,6 +91,13 @@ body {
   margin-left: 20px;
   color: #3b3b3b;
 }
+
+@media only screen and (max-width: 320px){
+  .blog-title {
+    font-size: 25px;
+  }
+}
+
 
 @media only screen and (min-width: 736px) {
   .postgroup {
