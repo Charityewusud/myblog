@@ -36,8 +36,7 @@ body {
 .post {
   padding: 20px;
   width: 250px;
-  /* outline: 1px red solid; */
-  /* text-align: center; */
+  text-align: center;
 }
 
 .image {
