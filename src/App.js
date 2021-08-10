@@ -35,7 +35,7 @@ class App extends React.Component {
            </div>
           </main>
 
-          <footer className="footer"><a href="https://codepen.io/charityewusud" target="_blank">&copy; Charity Ehouabolet 2021  |  My Codepen</a></footer>
+          <footer className="footer"><a href="https://codepen.io/charityewusud" target="_blank">&copy; Charity E. 2021  |  My Codepen</a></footer>
 
         </div>
     );
